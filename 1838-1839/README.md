@@ -4,3 +4,4 @@ Link to PDF: http://www.scb.se/H/Officiell%20statistik%201811-1860/F%C3%A5ngv%C3
 
 ###Original table names
 1.csv: Uppgift på antalet af personer, som under loppet af år 1838 varit inmanade i Läns- och andra större Detentions-häkten. Litt. A.
+2.csv: Uppgift på antalet af personer, som under loppet af år 1839 varit inmanade i Läns- och andra större Detentions-häkten. Litt. A.
